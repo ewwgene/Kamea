@@ -1,5 +1,5 @@
 
-# [ewwgene.github.io /](https://ewwgene.github.io/) [Kamea_ATW /](https://ewwgene.github.io/Kamea_ATW)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) [Kamea_ATW /](https://ewwgene.github.io/Kamea_ATW)
 
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Kamea_ATW/100.jpg)
 <a id="107"></a> ![107.jpg](https://ewwgene.github.io/Kamea_ATW/107.jpg)
@@ -28,5 +28,3 @@
 <a id="311"></a> ![311.jpg](https://ewwgene.github.io/Kamea_ATW/311.jpg)
 <a id="313"></a> ![313.jpg](https://ewwgene.github.io/Kamea_ATW/313.jpg)
 
-
-### [ABOUT/](https://ewwgene.github.io/) 
