@@ -5,5 +5,5 @@
     "material": ["MDF", "GOLD_LEAF"],
     "hardware": ["CNC_MILLING", "3D_SCANNING"],
     "software": ["HOUDINI", "MESHLAB", "RHINOCEROS_3D", "GRASSHOPPER"],
-    "making": "Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры рамы зеркал. Производство мебельной фабрики _KAMEA_. Размеры 1200mm&times;1000mm."
+    "making": "Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры рамы зеркал. Фрезеровка на станке с ЧПУ _**`3D_SCANNING`**_, основа для фрезеровки склеена из нескольких листов _`MDF`_ по _16mm_. Размеры _1200mm&times;1000mm_. Производство на мебельной фабрике [_KAMEA_](https://kamea.ru/), Новосибирск."
 }
