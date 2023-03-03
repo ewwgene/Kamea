@@ -1,9 +1,9 @@
 {
     "date": ["WINTER", "2020.02"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
-    "hardware": ["SLIT-SCAN_PHOTOGRAPHY"],
-    "software": ["HOUDINI_+_VOP&VEX", "MESHLAB" ,"AUTODESK_MAYA_+_RIGGING", "PROCESSING"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "medium": ["DESIGN SERIES", "SCULPTURE", "MIRROR"],
+    "overview": "Серия скульптур-зеркал в раме из _`MDF`_ покрытой поталью _`GOLD_LEAF`_. Для участия на выставке _ARTTRENDWEEK 2020, Park Inn by Radisson_, Новосибирск и мебельной фабрики _KAMEA_.",
+    "material": ["MDF", "GOLD_LEAF"],
+    "hardware": ["CNC_MILLING", "3D_SCANNING"],
+    "software": ["HOUDINI", "MESHLAB", "RHINOCEROS_3D", "GRASSHOPPER"],
+    "making": "Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры рамы зеркал. Размеры 1200mm&times;1000mm."
 }
