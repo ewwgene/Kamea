@@ -12,7 +12,7 @@ _`MDF`_ _`GOLD_LEAF`_
 
 _`HOUDINI`_ _`MESHLAB`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_  _**`CNC_MILLING`**_ _**`3D_SCANNING`**_ 
 
-Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры рамы зеркал. Фрезеровка на станке с ЧПУ _**`3D_SCANNING`**_, основа для фрезеровки склеена из нескольких листов _`MDF`_ по _16mm_. Размеры _1200mm&times;1000mm_. Производство на мебельной фабрике [_KAMEA_](https://kamea.ru/), Новосибирск.
+Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры рамы зеркал. Фрезеровка на станке с ЧПУ _**`CNC_MILLING`**_, основа для фрезеровки склеена из нескольких листов _`MDF`_ по _16mm_. Размеры _1200mm&times;1000mm_. Производство на мебельной фабрике [_KAMEA_](https://kamea.ru/), Новосибирск.
 
 <a id="311" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#311"><img src="https://ewwgene.github.io/Kamea_ATW/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#313"><img src="https://ewwgene.github.io/Kamea_ATW/313.jpg" height="66"></a> 
 
