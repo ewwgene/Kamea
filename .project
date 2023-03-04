@@ -1,6 +1,6 @@
 {
     "date": ["WINTER", "2020.02"],
-    "medium": ["DESIGN SERIES", "SCULPTURE", "MIRROR"],
+    "medium": ["DESIGN_SERIES", "SCULPTURE", "MIRROR"],
     "overview": "Серия скульптур-зеркал в раме из _`MDF`_, покрытие поталью. Для участия в выставке _ARTTRENDWEEK 2020, Park Inn by Radisson_, Новосибирск.",
     "material": ["MDF", "GOLD_LEAF"],
     "hardware": ["CNC_MILLING", "3D_SCANNING"],

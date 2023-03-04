@@ -16,7 +16,7 @@ _`HOUDINI`_ _`MESHLAB`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_  _**`CNC_MILLING`**_ _
 
 <a id="311" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#311"><img src="https://ewwgene.github.io/Kamea_ATW/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#313"><img src="https://ewwgene.github.io/Kamea_ATW/313.jpg" height="66"></a> 
 
-_`DESIGN SERIES`_ _`SCULPTURE`_ _`MIRROR`_ 
+_`DESIGN_SERIES`_ _`SCULPTURE`_ _`MIRROR`_ 
 
 <br> 
 
