@@ -14,7 +14,7 @@ _`HOUDINI`_ _`MESHLAB`_ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_  _**`CNC_MILLING`**_ _
 
 Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan) для _`HOUDINI`_ использует отсканированные участки архитектурного декора для создания текстуры рамы зеркал. Фрезеровка на станке с ЧПУ, основа для фрезеровки - склееные листы _`MDF`_ _16mm_. Размеры _1200mm&times;1000mm_. Производство мебельной фабрики [_KAMEA_](https://kamea.ru/), Новосибирск.
 
-<a id="311" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#311"><img src="https://ewwgene.github.io/Kamea_ATW/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#313"><img src="https://ewwgene.github.io/Kamea_ATW/313.jpg" height="66"></a> 
+<a id="311" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#311"><img src="https://ewwgene.github.io/Kamea_ATW/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#313"><img src="https://ewwgene.github.io/Kamea_ATW/313.jpg" height="66"></a> <a id="314" href="https://ewwgene.github.io/Kamea_ATW/Carousel/#314"><img src="https://ewwgene.github.io/Kamea_ATW/314.jpg" height="66"></a> 
 
 _`DESIGN_SERIES`_ _`SCULPTURE`_ _`MIRROR`_ 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/804652903?h=a5deea6910&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ArtTrendWeek 2020"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
